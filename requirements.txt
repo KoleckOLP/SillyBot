@@ -1,0 +1,12 @@
+aiohttp
+async-timeout
+attrs
+chardet
+discord.py
+idna
+multidict
+py-getch
+six
+websockets
+wrapt
+yarl
